@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="CacheSpan">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/tracing/tracing.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Check">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/health/health.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Config">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/config/config.go" />
+              <option value="file://$PROJECT_DIR$/pkg/log/logger.go" />
+              <option value="file://$PROJECT_DIR$/pkg/observability/metrics/metrics.go" />
+              <option value="file://$PROJECT_DIR$/pkg/observability/tracing/tracing.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CustomChecker">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/health/health.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DBSpan">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/tracing/tracing.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DatabaseChecker">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/health/health.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Error">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/errors/errors.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HTTPSpan">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/tracing/tracing.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Handler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/health/health.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Manager">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/graceful/shutdown.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="MessageSpan">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/tracing/tracing.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Metrics">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/metrics/metrics.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Options">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Provider">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/tracing/tracing.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RPCSpan">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/tracing/tracing.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RedisChecker">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/health/health.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Result">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/health/health.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ShutdownHook">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/graceful/shutdown.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SpanHelper">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/tracing/tracing.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="logger">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/log/logger.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="responseWriter">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/observability/metrics/metrics.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/pkg/config/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1766816652869" />
+              <option name="schema">
+                <list>
+                  <option value="Config" />
+                  <option value="Options" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/errors/errors.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1766830920050" />
+              <option name="schema">
+                <list>
+                  <option value="Error" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/graceful/shutdown.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1766816697768" />
+              <option name="schema">
+                <list>
+                  <option value="Manager" />
+                  <option value="ShutdownHook" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/log/logger.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1766816652824" />
+              <option name="schema">
+                <list>
+                  <option value="Config" />
+                  <option value="logger" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/observability/health/health.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1766816759913" />
+              <option name="schema">
+                <list>
+                  <option value="Check" />
+                  <option value="Result" />
+                  <option value="Handler" />
+                  <option value="DatabaseChecker" />
+                  <option value="RedisChecker" />
+                  <option value="CustomChecker" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/observability/metrics/metrics.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1766816759964" />
+              <option name="schema">
+                <list>
+                  <option value="Metrics" />
+                  <option value="Config" />
+                  <option value="responseWriter" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/observability/tracing/tracing.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1766817124691" />
+              <option name="schema">
+                <list>
+                  <option value="Config" />
+                  <option value="Provider" />
+                  <option value="SpanHelper" />
+                  <option value="HTTPSpan" />
+                  <option value="DBSpan" />
+                  <option value="RPCSpan" />
+                  <option value="MessageSpan" />
+                  <option value="CacheSpan" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="cache_span" value="CacheSpan" />
+        <entry key="check" value="Check" />
+        <entry key="config" value="Config" />
+        <entry key="custom_checker" value="CustomChecker" />
+        <entry key="database_checker" value="DatabaseChecker" />
+        <entry key="db_span" value="DBSpan" />
+        <entry key="error" value="Error" />
+        <entry key="handler" value="Handler" />
+        <entry key="http_span" value="HTTPSpan" />
+        <entry key="logger" value="logger" />
+        <entry key="manager" value="Manager" />
+        <entry key="message_span" value="MessageSpan" />
+        <entry key="metrics" value="Metrics" />
+        <entry key="options" value="Options" />
+        <entry key="provider" value="Provider" />
+        <entry key="redis_checker" value="RedisChecker" />
+        <entry key="response_writer" value="responseWriter" />
+        <entry key="result" value="Result" />
+        <entry key="rpc_span" value="RPCSpan" />
+        <entry key="shutdown_hook" value="ShutdownHook" />
+        <entry key="span_helper" value="SpanHelper" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1766816360015" />
+  </component>
+</project>
